@@ -1,5 +1,5 @@
 {
-  "name": "marked-gfm-heading-id",
+  "name": "@team-one/marked-gfm-heading-id",
   "version": "4.1.2",
   "description": "marked GFM heading ids",
   "main": "./lib/index.cjs",
